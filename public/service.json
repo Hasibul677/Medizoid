@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "serviceName": "Doctor care",
+      "discription": "A doctor may visit a patient at home to diagnose and treat the illness(es). He or she may also periodically review the home health care needs.",
+      "image": "https://media.istockphoto.com/photos/pediatrician-talks-with-patients-mother-picture-id1293681788?b=1&k=20&m=1293681788&s=170667a&w=0&h=86FIfZB_E9W0-1olORv2I6P5Fvd6EUMZUVPyiMfVrAY="
+    },
+    {
+      "id": 2,
+      "serviceName": "Nursing care",
+      "discription": " In consultation with the doctor, a registered nurse will set up a plan of care. Nursing care may include wound dressing, ostomy care, intravenous therapy, administering medication, monitoring the general health of the patient, pain control, and other health support.",
+      "image": "https://media.istockphoto.com/photos/offering-patientcentred-care-that-proves-effective-and-efficient-picture-id1301555107?b=1&k=20&m=1301555107&s=170667a&w=0&h=urags5L_xQX4tiAVkW8Hws70_Z2EwnFvDoT2gOqgfk8="
+    },
+    {
+      "id": 3,
+      "serviceName": "Speech therapy",
+      "discription": "A physical therapist can put together a plan of care to help a patient regain or strengthen use of muscles and joints. An occupational therapist can help a patient with physical, developmental, social, or emotional disabilities relearn how to perform such daily functions as eating, bathing, dressing, and more.",
+      "image": "https://images.unsplash.com/photo-1576671414121-aa0c81c869e1?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8dGhlcmFweSUyMGRvY3RvcnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 4,
+      "serviceName": "Medical social services",
+      "discription": "Medical social workers provide various services to the patient, including counseling and locating community resources to help the patient in his or her recovery. Some social workers are also the patients case manager--if the patients medical condition is very complex and requires coordination of many services.",
+      "image": "https://media.istockphoto.com/photos/doctor-clicking-on-a-laptop-before-her-picture-id1292777576?b=1&k=20&m=1292777576&s=170667a&w=0&h=Tg1ASn3aw19DgyqjGaaWqJmPeXiDRaU1LW8c83Y5tbw="
+    },
+    {
+      "id": 5,
+      "serviceName": "Care from home",
+      "discription": "Home health aides can help the patient with his or her basic personal needs such as getting out of bed, walking, bathing, and dressing. Some aides have received specialized training to assist with more specialized care under the supervision of a nurse.",
+      "image": "https://images.unsplash.com/photo-1576765974102-b756026ecee3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEwfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 6,
+      "serviceName": "Companionship",
+      "discription": "Some patients who are home alone may require a companion to provide comfort and supervision. Some companions may also perform household duties.",
+      "image": "https://images.unsplash.com/photo-1461532257246-777de18cd58b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29tcGFuaW9uc2hpcHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 7,
+      "serviceName": "Volunteer care",
+      "discription": "Volunteers from community organizations can provide basic comfort to the patient through companionship, helping with personal care, providing transportation, emotional support, and/or helping with paperwork.",
+      "image": "https://media.istockphoto.com/photos/team-of-doctors-and-nurses-in-hospital-picture-id1307543618?b=1&k=20&m=1307543618&s=170667a&w=0&h=hXpYmNYXnhdD36C-8taPQvdpM9Oj-woEdge8nvPrsZY="
+    },
+    {
+      "id": 8,
+      "serviceName": "Nutritional support",
+      "discription": "Dietitians can come to a patients home to provide dietary assessments and guidance to support the treatment plan.",
+      "image": "https://images.unsplash.com/photo-1518634535905-13f21073199b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8bnV0cml0aW9uYWx8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 9,
+      "serviceName": "Pharmaceutical services",
+      "discription": "Medicine and medical equipment can be delivered at home. If the patient needs it, training can be provided on how to take medicines or use of the equipment, including intravenous therapy.",
+      "image": "https://images.unsplash.com/photo-1598300188480-626f2f79ab8d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cGhhcm1hY2V1dGljYWx8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    }
+  ]

@@ -1,0 +1,65 @@
+.margin-top{
+    margin-top: 100px;
+}
+.parents{
+    margin-top: 100px;
+    position: relative;
+    border: 2px dotted blue;
+    height: 330px;
+    width: 330px;
+}
+.parent{
+    position: absolute;
+    top: -10px;
+    left: -10px;
+    bottom: -8px;
+    right: -10px;
+    border: 2px dotted blue;
+    height: 350px;
+    width: 345px;
+}
+.health-info{
+    position: absolute;
+    background-color: #6d0101;
+    color: white;
+    width: 140px;
+    height: 140px;
+    bottom: 100px;
+    left: -50px;
+}
+.health-info1{
+    position: absolute;
+    background-color: #6d0101;
+    color: white;
+    width: 140px;
+    height: 140px;
+    bottom: 100px;
+    right: -50px;
+}
+.health-info2{
+    position: absolute;
+    background-color: #6d0101;
+    color: white;
+    width: 140px;
+    height: 140px;
+    left: 100px;
+    top: -50px;
+}
+.health-info3{
+    position: absolute;
+    background-color: #6d0101;
+    color: white;
+    width: 140px;
+    height: 140px;
+    left: 100px;
+    bottom: -50px;
+}
+.icon{
+    height: 80px;
+    width: 80px;
+    background-color: white;
+    border: 2px solid #6d0101;
+    position: absolute;
+    top: -30px;
+    left: 30px;
+}

@@ -1,0 +1,7 @@
+.doctors{
+    background-color: rgba(0, 0, 0, 0.2);
+    transform: skewY(-3deg);
+}
+.doctor-info{
+    transform: skewY(3deg);
+}

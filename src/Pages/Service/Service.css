@@ -1,0 +1,13 @@
+.services{
+    background-color: rgba(0, 0, 0, 0.6);
+    transform: skewY(-3deg);
+}
+#service{
+    transform: skewY(3deg);
+}
+.image{
+    transition: transform 1.2s ease-in-out;
+}
+.image:hover{
+    transform: scale(1.1);
+}

@@ -1,0 +1,7 @@
+.subscribe{
+ background-color: rgba(0, 0, 255, 0.431);
+ transform: skewY(-3deg);
+}
+.sub-info{
+    transform: skewY(3deg);
+}

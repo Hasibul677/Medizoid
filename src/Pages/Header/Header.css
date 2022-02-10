@@ -1,0 +1,10 @@
+.selected{
+    color: rgba(128, 255, 0, 0.911);
+}
+.name{
+    width: 30px;
+    height: 30px;
+}
+.headermargin{
+    margin-bottom: 70px;
+}
